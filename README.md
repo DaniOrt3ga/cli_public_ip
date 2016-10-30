@@ -9,3 +9,6 @@ Written in C Language
 use standard linux c compiler
 
 gcc -o public_ip public_ip.c
+
+#Run it like this in your command line
+./public_ip
